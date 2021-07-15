@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript with React as framework alongside Flutter/Dart.
 - 💞️ I’m looking to collaborate on any progresive group or individual project or internship atm.
 - 📫 How to reach me +234 806 4669 480, 
-twitter; @ASAP_CONET
+twitter; @ASAPCONET
 instagram; aaron_asap_a1
 
 <!---
