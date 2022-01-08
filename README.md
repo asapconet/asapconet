@@ -1,5 +1,6 @@
 It's @asapconet
-JavaScript got me, an am React(ing)
+JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to the Next.js
+Your design perfectionist 
 
 📲 +234 806 4669 480,
 Twitter; @ASAPCONET
