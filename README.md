@@ -2,17 +2,14 @@ It's @asapconet
 JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to the Next.js
 Your design perfectionist 
 
-📲 +234 806 4669 480,
-Twitter; @ASAPCONET
 Medium; asap_a1
-
 
 - [Twitter](https://twitter.com/ASAPCONET)
 - [Instagram](https://instagram.com/aaron_asap_a1)
 - [LinkedIn](http://linkedin.com/in/aaron-sunday-a1a9a268)
 
 
-# Making use of tools built by mere mortals:
+# My inaccurate summery in graphical display;
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asapconet&show_icons=true&theme=algolia&count_private=true&line_height=27">
  </a>
