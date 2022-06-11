@@ -1,12 +1,5 @@
 It's @asapconet
-JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to the Next.js
-Your design perfectionist 
-
-Medium; asap_a1
-
-- [Twitter](https://twitter.com/ASAPCONET)
-- [Instagram](https://instagram.com/aaron_asap_a1)
-- [LinkedIn](http://linkedin.com/in/aaron-sunday-a1a9a268)
+JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to the Next.js 
 
 
 # My inaccurate summery in graphical display;
