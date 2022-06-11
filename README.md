@@ -19,9 +19,7 @@ Medium; asap_a1
  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=asap_a1&theme=algolia&count_private=true&line_height=27&langs_count=7">
  </a>
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapconet&theme=algolia&count_private=true&line_height=27&hide=jupyter notebook">
- </a>
+
 
   <!---
 asapconet/asapconet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
