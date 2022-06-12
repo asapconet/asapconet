@@ -7,7 +7,7 @@ JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to th
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asapconet&show_icons=true&theme=algolia&count_private=true&line_height=27">
  </a>
  <div>
-<a href="https://wakatime.com/@483bdb9a-fc96-49c6-9d6a-ec7373739336"><img src="https://wakatime.com/badge/user/483bdb9a-fc96-49c6-9d6a-ec7373739336.svg" alt="Total time coded    since Dec 15 2021" /></a>
+<a href="https://wakatime.com/@483bdb9a-fc96-49c6-9d6a-ec7373739336"><img src="https://wakatime.com/badge/user/483bdb9a-fc96-49c6-9d6a-ec7373739336.svg" alt="Total time coded    since June 1 2021" /></a>
   </div>
  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=asap_a1&theme=algolia&count_private=true&line_height=27&langs_count=7">
