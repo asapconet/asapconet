@@ -1,8 +1,7 @@
 It's @asapconet
-JavaScript got me, I'm React(ing), dabbing into Type(scripting) and moving to the Next.js 
 
 
-# My inaccurate summery in graphical display;
+#  A summary in a graphical display;
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asapconet&show_icons=true&theme=algolia&count_private=true&line_height=27">
  </a>
