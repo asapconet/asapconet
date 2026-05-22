@@ -1,40 +1,112 @@
-<h1 align="center">Holla 👋, I'm Aaron</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asapconet&label=Profile%20views&color=0e75b6&style=flat" alt="asapconet" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asapconet" alt="asapconet" /></a> </p>
+# Γεια σου 👋 είμαι ο Aaron
 
-<p align="left"> <a href="https://twittwer.com/asapconet" target="blank"><img src="https://img.shields.io/twitter/follow/asapconet?logo=x&style=for-the-badge" alt="asapconet" /></a> </p>
+### Fullstack Dev[FE++] · Rust Learner · Web3 Explorer
 
-- 🌱 I’m currently learning **Rust**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+cool+stuff+on+the+internet;Currently+obsessed+with+Rust+🦀;TypeScript+Enjoyer;Open+Source+%2B+Web3" />
 
-- 👯 I’m looking to collaborate on **Anything Typescript**
+</div>
 
-- 📝 I sometimes write articles on [https://medium.com/@asap-a1](https://medium.com/@asap-a1)
+---
 
-- 💬 Ask me about **React,Typescript, Javascript**
+## About me?
 
-- 📫 How to reach me **aaronrickymeek@gmail.com**
+```rust
+struct Engineer {
+    name: &'static str,
+    role: &'static str,
+    stack: Vec<&'static str>,
+    architecture: Vec<&'static str>,
+    currently_learning: &'static str,
+}
 
-- ⚡ Fun fact **Everything is funny**
+let aaron = Engineer {
+    name: "Aaron",
+    role: "Fullstack & Web 3ing",
+    
+    stack: vec![
+        "Rust",
+        "TypeScript",
+        "PostgreSQL",
+        "React",
+        "Next",
+        "Docker",
+        "React",
+        "Axum",
+    ],
 
-### Blogs posts
+    interests: vec![
+        "Systems Programming",
+        "Modern Web Apps",
+        "Developer Tooling",
+        "Open Source",
+    ],
+    
+    currently_learning: "Rust for Bitcoin, Bitcoin for Rust | Greek",
+};
+```
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🌱 Learning Rust & Greek deeply
+- ⚡ Building cool internet stuff
+- 👯 Open to collaborating on Web3 projects
+- ✍️ Sometimes writing on Medium
+- 💬 Ask me about React, TypeScript, JavaScript
+- "I think Everything is funny 😭"
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌐 connect with me
+
 <p align="left">
-<a href="https://twittwer.com/@asapconet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asapconet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaron-sunday-a1a9a268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaron Sunday" height="30" width="40" /></a>
-<a href="https://instagram.com/asapa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asapa1" height="30" width="40" /></a>
-<a href="https://medium.com/@asap-a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asap-a1" height="30" width="40" /></a>
+  <a href="https://x.com/asapconet" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aaron-sunday-a1a9a268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/asapa1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@asap-a1" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:aaronrickymeek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" heightasapconet="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asapconet&show_icons=true&locale=en&layout=compact" alt="asapconet" /></p>
+## 🛠️ Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asapconet&show_icons=true&locale=en" alt="asapconet" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,tailwind,firebase,supabase,docker,git,figma,jest,sass,redux,html,css,linux" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asapconet&" alt="asapconet" /></p>
+---
+
+## 📊 Github stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asapconet&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapconet&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=asapconet&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asapconet&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asapconet&style=flat-square&color=00F7FF" alt="Profile views" />
+</div>
